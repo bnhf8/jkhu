@@ -1,26 +1,22 @@
-; ·ÖºÅ¿ªÍ·ÊÇ×¢ÊÍËµÃ÷£¬ÓÃÀ´ÁË½â²¹¶¡µÄÀàĞÍ(ÀıÈç£ºÊÇÔÂ¶È»ã×Ü²¹¶¡»¹ÊÇ°²È«ĞÔ¸üĞÂ²¹¶¡)£¬ÎÄµµÔÊĞíÓĞ¿ÕĞĞ
+;2022-é€‚ç”¨äº Windows 10 Version 1809 çš„ 05 ç´¯ç§¯æ›´æ–°ï¼Œé€‚åˆåŸºäº x86 çš„ç³»ç»Ÿ (KB5013941)
+https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows10.0-kb5013941-x86_2cc1ab49968b97f690c0db7c6aa5b830de728d85.msu
 
- 2022-04 ßmÓÃì¶ x64 Ïµ½y Windows 10 Version 1809 µÄÀÛ·e¸üĞÂ (KB5012647)
-Last Modified: 2022/4/8
-Size: 563.2 MB 
-https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/04/windows10.0-kb5012647-x64_546889f367caf2a1edd79f5db7d8507e7a53e31b.msu
+;2022-é€‚ç”¨äº Windows 10 Version 1809 çš„ 05 ç´¯ç§¯æ›´æ–°ï¼Œé€‚åˆåŸºäº x64 çš„ç³»ç»Ÿ (KB5013941)
+https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows10.0-kb5013941-x64_8df2c89490d6cd19f5086728dbc3c991decefad7.msu
 
- 2022-04 ßmÓÃì¶ x86 Ïµ½y Windows 8.1 µÄ·ş„Õ¶Ñ¯B¸üĞÂ (KB5012672)
-Last Modified: 2022/4/8
-Size: 4.7 MB 
-https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows8.1-kb5012672-x86_2999ec9917fa4e5822f8ac5a2bd05903081cce29.msu
+;2022-05 é€‚ç”¨äºåŸºäº x64 çš„ç³»ç»Ÿçš„ Windows 8.1 æœˆåº¦å®‰å…¨è´¨é‡æ±‡æ€»ï¼ˆKB5014011ï¼‰
+https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/05/windows8.1-kb5014011-x64_8677efb857d5a370986406a2bf133ba4e1947f16.msu
 
- 2022-04 ßmÓÃì¶ Windows 8.1£¬x86 ¼Ü˜‹Ïµ½yµÄÃ¿ÔÂ°²È«ĞÔÆ·Ù|¡¿‚Ì×¼ş (KB5012670)
-Last Modified: 2022/4/9
-Size: 361.2 MB 
-https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/04/windows8.1-kb5012670-x86_d4f8fdac13c434cc2e8284c8813ae65460808a8f.msu
+;2022-05 é€‚ç”¨äºåŸºäº x86 çš„ç³»ç»Ÿçš„ Windows 8.1 æœˆåº¦å®‰å…¨è´¨é‡æ±‡æ€»ï¼ˆKB5014011ï¼‰
+https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows8.1-kb5014011-x86_6d92ac7b5cbb8ae79c78eb75e7964a240e40dbdd.msu
 
- 2022-04 ßmÓÃì¶ Windows 8.1£¬x64 ¼Ü˜‹Ïµ½yµÄÃ¿ÔÂ°²È«ĞÔÆ·Ù|¡¿‚Ì×¼ş (KB5012670)
-Last Modified: 2022/4/9
-Size: 554.9 MB 
-https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/04/windows8.1-kb5012670-x64_07585eb5c24babfb0627903fc1436a4a4ab54a82.msu
+;2022-é€‚ç”¨äº Windows 8.1 çš„ 05 æœåŠ¡å †æ ˆæ›´æ–°ï¼Œé€‚åˆåŸºäº x86 çš„ç³»ç»Ÿ (KB5014025)
+https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows8.1-kb5014025-x86_0201d799b4a1883492ce1eecf04cb09a3f45c5b3.msu
 
-  2022-04 ßmÓÃì¶ x64 Ïµ½y Windows 8.1 µÄ·ş„Õ¶Ñ¯B¸üĞÂ (KB5012672)
-Last Modified: 2022/4/8
-Size: 10.4 MB 
-https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows8.1-kb5012672-x64_66e19403859f08376e346bf7b191aa8ae543b87a.msu
+;2022-é€‚ç”¨äº Windows 8.1 çš„ 05 æœåŠ¡å †æ ˆæ›´æ–°ï¼Œé€‚åˆåŸºäº x64 çš„ç³»ç»Ÿ (KB5014025)
+https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows8.1-kb5014025-x64_083b88cc298e107261f2615517de99f93603d184.msu
+
+
+
+
+
